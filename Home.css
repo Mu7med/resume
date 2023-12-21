@@ -216,7 +216,8 @@
 
   .u-section-1 .u-container-layout-1 {
     padding-top: 55px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
   .u-section-1 .u-text-1 {
@@ -226,6 +227,7 @@
 
   .u-section-1 .u-text-2 {
     font-size: 3.4375rem;
+    width: auto;
   }
 
   .u-section-1 .u-line-1 {
@@ -235,6 +237,12 @@
   .u-section-1 .u-text-4 {
     width: auto;
     margin-left: 125px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    --radius: 8px;
+    padding-left: 38px;
+    padding-right: 38px;
   }
 
   .u-section-1 .u-image-1 {
@@ -1303,11 +1311,6 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-4 .embed-responsive-1 {
-    left: -39%;
-    top: -39%;
   }
 
   .u-section-4 .u-text-1 {
