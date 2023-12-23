@@ -75,9 +75,10 @@
   --animation-custom_in-scale: 1;
   box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   transition-duration: 0.5s;
+  --radius: 8px;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   margin: 136px auto 0 0;
-  padding: 15px 97px 15px 95px;
+  padding: 15px 45px;
 }
 
 .u-section-1 .u-icon-1 {
@@ -237,12 +238,6 @@
   .u-section-1 .u-text-4 {
     width: auto;
     margin-left: 125px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    --radius: 8px;
-    padding-left: 38px;
-    padding-right: 38px;
   }
 
   .u-section-1 .u-image-1 {
